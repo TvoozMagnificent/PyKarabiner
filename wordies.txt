@@ -1,0 +1,6 @@
+cat
+dog
+word
+repeated
+huh
+shah
